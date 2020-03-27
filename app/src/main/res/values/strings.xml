@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Diary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="del">Delete All</string>
+    <string name="save">Save</string>
+    <string name="write">Write Your Daily Here</string>
+</resources>
